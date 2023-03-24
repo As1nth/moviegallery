@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@1,500&family=DM+Sans&family=Kaushan+Script&display=swap');
+body{
+    margin: 0;
+    background-image: url("./images/background2.avif");
+    background-size: cover;
+   
+}
+.row
+{
+    width: 80%;
+    height: 500px;
+    position: relative;
+    left: 100px;
+    top: 140px;
+}
+.col
+{
+
+    border: black solid 2px;
+    position: absolute;
+    top: 100px;
+    width: 300px;
+    height: 550px;
+}
+.col-1
+{
+
+    left: 400px;
+}
+.col-2
+{
+    
+    left: 800px;
+}
+.col-3
+{
+ 
+    left: 1200px;
+}
+
+img
+{
+    height: 300px;
+    width: 300px;
+}
+h1
+{
+    color: antiquewhite;
+  text-align: center;
+font-family: 'Kaushan Script', cursive;
+
+}
+p{
+    color: white;
+}
+#hea
+{
+    text-align: center;
+}
+.rating
+{
+    color: white;
+    border: black solid 3px;
+    width: 150px;
+    text-align: center;
+    margin-left: 75px;
+    margin-top: 50px;
+}
+.rating1
+{
+    color: white;
+    border: black solid 3px;
+    width: 150px;
+    text-align: center;
+    margin-left: 75px;
+    margin-top: 50px;
+}
+.rating2
+{
+    color: white;
+    border: black solid 3px;
+    width: 150px;
+    text-align: center;
+    margin-left: 75px;
+    margin-top: 63px;
+}
+.rating3
+{
+    color: white;
+    border: black solid 3px;
+    width: 150px;
+    text-align: center;
+    margin-left: 75px;
+}
